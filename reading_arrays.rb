@@ -28,7 +28,7 @@ def last_student_by_method
 end
 
 def first_second_and_third_students
-  puts STUDENT_NAMES[all]
+  puts STUDENT_NAMES
 end
 
 first_student_by_index
